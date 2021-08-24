@@ -7,7 +7,7 @@
 
 This is my parking spot, and I put a QR code on it. I choose here because I can update this and set it to whatever I want. Dont worry I woln't be putting anything dangerous in here its just for fun and my name is plastered all over it. <br>
 
-If you want to translate that little code on the bottom of the parking spot you can use a website like [Hex to Ascii](https://www.rapidtables.com/convert/number/hex-to-ascii.html). Although I did forget an 'L', it should read "Caden Miller 2022" but instead it reads "Caden Miler 2022".
+If you want to translate that little code on the bottom of the parking spot you can use a website like [Hex to Ascii](https://www.rapidtables.com/convert/number/hex-to-ascii.html). Although I did forget an 'L'.
 
 #### Links
 - [GitHub](https://github.com/cullvox)
